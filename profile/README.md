@@ -10,3 +10,4 @@ The reverse acronym IPASIR is pronounced as "IPA, Sir?" to honour all the barkee
 The gentleman with a glas of IPA became an inoffical IPASIR mascot - the real IPA-Sir.
 In the title image of this workgroup, the IPA-Sir holds already two IPA to indicate the version increment coming with IPASIR-2. 
 
+If you feel entitled to support this project with substantial contributions, please contact one of the members of this group.
