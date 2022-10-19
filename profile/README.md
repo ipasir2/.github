@@ -6,8 +6,8 @@ I collected and organized these ideas which have been floating around on GitHub,
 This culminated in some initial weighting and discussions about IPASIR-2.
 The resulting draft shall serve as a foundation for further discussions.
 
-The reverse acronym IPASIR is pronounced as "IPA, Sir?" to honour all the barkeepers who have offered us an Indian Pale Ale (IPA).
-The gentleman with a glas of IPA became an inoffical IPASIR mascot - the real IPA-Sir.
-In the title image of this workgroup, the IPA-Sir holds already two IPA to indicate the version increment coming with IPASIR-2. 
+The reverse acronym IPASIR is pronounced as in "IPA, Sir?".
+With this proposal we "make it two".
 
 If you feel entitled to support this project with substantial contributions, please contact one of the members of this group.
+
