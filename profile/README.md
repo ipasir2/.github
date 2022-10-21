@@ -2,7 +2,7 @@
 
 This GitHub space exists for bringing together the users and developers of incremental SAT solvers for discussing the details of the next version of the _Re-entrant Incremental SAT solver API_  (IPASIR).
 The reverse acronym IPASIR is pronounced as in "IPA, Sir?"
-With this proposal we ambitiously and consequently "make it two!"
+With this proposal we ambitiously and consequently "Make it two!"
 
 IPASIR was originally specified in SAT Race 2015 [1].
 Since then, IPASIR has been the standard interface for evaluating the performance of incremental SAT solvers in the annual international SAT competitions.
@@ -40,7 +40,7 @@ In particular, this is about the following new features.
 
 ## Language and Compatibility
 
-IPASIR-2 is planned as a C interface, but providing suitable C++, Rust and Java bindings is part of the plan.
+IPASIR-2 is planned as a C interface, but providing suitable C++, Python, Rust and Java bindings is part of the plan.
 Maintaining backward compatibility, i.e., all IPASIR-2 solvers are also IPASIR solvers, is very likely but is already being discussed.
 To cover most new use cases, the configuration interface and the asynchronous clause import seem to be the most important new features of IPASIR-2.
 
