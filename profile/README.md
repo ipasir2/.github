@@ -20,12 +20,12 @@ Use-cases of a SAT solver configuration interface encompass switching between li
 
 For applications of incremental SAT solvers, the standard, flexible and easy access to a portfolio of solvers is one of the traditional use-cases of IPASIR.
 In the typical parallel portfolio framework, SAT solvers exchange information in terms of learned clauses.
-Since IPASIR only supports the export of learned clauses, IPASIR-2 should also support the **asynchronous import of redundant clauses**.
+Since IPASIR only supports the export of learned clauses, IPASIR-2 should also support the **asynchronous import of clauses**.
 
 With the two new features, i.e. the **configuration interface** and the **asynchronous clause import**, tasks like solver tuning, diversification and information sharing can be implemented on top of IPASIR-2.
 This has the advantage that new solvers can be easily integrated into existing solutions and frameworks.
 
-Other proposed features include means for extracting solver **statistics**, clean **error handling** with IPASIR error codes, and the notification about **deleted clauses**.
+Other proposed features include means for clean **error handling** with IPASIR error codes, and the notification about **variable assignments**.
 In this workgroup, we are discussing and drafting all new features of IPASIR-2.
 In particular, this is about the following new features.
 
@@ -33,7 +33,7 @@ In particular, this is about the following new features.
 
 ### 2. Asynchronous Clause Import
 
-### 3. Solver Statistics
+### 3. Notification on Changes in Variable Assignments
 
 ### 4. Error Codes
 
